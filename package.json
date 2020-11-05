@@ -1,0 +1,22 @@
+{
+  "name": "grpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mostafa8026/node-grpc.git"
+  },
+  "keywords": [
+    "grpc"
+  ],
+  "author": "mostafa8026",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mostafa8026/node-grpc/issues"
+  },
+  "homepage": "https://github.com/mostafa8026/node-grpc#readme"
+}
